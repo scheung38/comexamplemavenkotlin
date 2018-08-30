@@ -1,0 +1,6 @@
+projectKey=com.example.maven.kotlin:com-example-maven-kotlin
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/com.example.maven.kotlin:com-example-maven-kotlin
+ceTaskId=AWWE6bIR6awpT6bk1dlM
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWWE6bIR6awpT6bk1dlM
