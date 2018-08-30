@@ -201,3 +201,6 @@ Reach out to me at one of the following places!
 http://localhost:9000/api/project_badges/measure?project=com.example.maven.kotlin%3Acom-example-maven-kotlin&metric=alert_status
 
 https://techtwaddle.co.in/blog/2015/07/14/using-sonarqube-intellij-plugin-for-code-analysis/
+
+https://github.com/StuPro-TOSCAna/stupro_toscana_vorprojekt/issues/19
+
